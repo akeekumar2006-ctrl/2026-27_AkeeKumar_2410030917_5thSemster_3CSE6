@@ -8,7 +8,7 @@ This repository contains the documents and learning outcomes of my **8-week Gen 
 * **Course:** B.Tech (CSE)
 * **University:** IILM University, Greater Noida
 * **Roll Number:** 2410030917
-* **Batch:** 2026–27
+* **Batch:** 2024-28
 * **Duration:** April 2026 – June 2026
 * **Program:** AICTE–EduSkills Gen AI Virtual Internship
 * **Grade:** O – Outstanding (90–100)
